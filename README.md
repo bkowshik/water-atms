@@ -1,4 +1,4 @@
-# water-atms
+# Water ATMs
 
 > Mapping water ATMs around us.
 
