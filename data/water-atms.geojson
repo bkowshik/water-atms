@@ -1,0 +1,43 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 1,
+                "isActive": 1,
+                "openingHours": [
+                    "Mo-Su 07:00-21:00"
+                ],
+                "createdAt": "2019-08-04 20:40",
+                "updatedAt": "2019-08-04 21:16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.591472,
+                    12.9081638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 2,
+                "isActive": 1,
+                "openingHours": [
+                    "Mo-Su 08:00-12:00 17:00-20:00"
+                ],
+                "createdAt": "2019-08-10 09:30",
+                "updatedAt": "2019-08-10 09:30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    77.5951133,
+                    12.9215751
+                ]
+            }
+        }
+    ]
+}
