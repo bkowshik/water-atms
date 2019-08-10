@@ -22,4 +22,4 @@
 }
 ```
 
-![](./static/images/water-atm.jpg)
+![](./static/images/water-atm-1.jpg)
