@@ -23,3 +23,13 @@
 ```
 
 ![](./static/images/water-atm-1.jpg)
+
+
+
+## Contributing
+
+### Testing
+
+```bash
+npm run test
+```
