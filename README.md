@@ -1,6 +1,11 @@
 # Water ATMs
 
+
+[![Build Status](https://travis-ci.org/bkowshik/water-atms.png)](https://travis-ci.org/bkowshik/water-atms)
+
+
 > Mapping water ATMs around us.
+
 
 ```json
 {
