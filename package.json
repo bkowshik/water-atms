@@ -1,0 +1,25 @@
+{
+  "name": "water-atms",
+  "version": "0.0.1",
+  "description": "Mapping water ATMs around us.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bkowshik/water-atms.git"
+  },
+  "keywords": [
+    "water"
+  ],
+  "author": "Bhargav Kowshik KR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bkowshik/water-atms/issues"
+  },
+  "homepage": "https://github.com/bkowshik/water-atms#readme"
+}
