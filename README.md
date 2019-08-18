@@ -1,8 +1,6 @@
 # Water ATMs
 
-
-[![Build Status](https://travis-ci.org/bkowshik/water-atms.png)](https://travis-ci.org/bkowshik/water-atms)
-
+[![Total Count](https://img.shields.io/badge/Water%20ATMs-3-Blue.png)]() [![Build Status](https://travis-ci.org/bkowshik/water-atms.png)](https://travis-ci.org/bkowshik/water-atms)
 
 > Mapping water ATMs around us.
 
