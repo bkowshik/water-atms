@@ -74,6 +74,23 @@
                     12.9073332
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": 5,
+                "isActive": 1,
+                "openingHours": [],
+                "createdAt": "2019-09-18 08:39",
+                "updatedAt": "2019-09-18 08:39"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    76.0893007,
+                    12.6071956
+                ]
+            }
         }
     ]
 }
